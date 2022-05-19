@@ -1,0 +1,122 @@
+/* Обнуляючий стиль */
+
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular,700&display=swap);
+
+
+.block {
+	font-family: Poppins;
+	min-width: 254px;
+	color: #323232;
+}
+.block div{
+	display: inline-block;
+}
+.text {
+	margin: 0 0 58px 0;
+	font-weight: 700;
+	font-size: 42px;
+	line-height: 62px;
+	letter-spacing: 0.8px;
+	text-align: center;
+}
+.h1 {
+	font-weight: 700;
+	font-size: 42px;
+	line-height: 62px;
+	letter-spacing: 0.8px;
+	text-align: center;
+}
+.performance {
+	text-align: center;
+	max-width: 248px;
+	margin: 0 35px 0 165px;
+}
+.performance-icon {
+	margin: 0 0 15px 0;
+}
+.performance-title {
+		font-weight: 700;
+		font-size: 28px;
+		line-height: 42px;
+		letter-spacing: 0.5px;
+}
+.performance-text {
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	letter-spacing: 1.15px;
+}
+.entrepreneurship {
+	max-width: 261px;
+	text-align: center;
+	margin: 0 35px 0 0;
+}
+.entrepreneurship-icon {
+	margin: 0 0 15px 0;
+}
+.entrepreneurship-title {
+	font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.5px;
+color: #323232;
+}
+
+.entrepreneurship-text {
+	font-size: 16px;
+	line-height: 27px;
+	text-align: center;
+	letter-spacing: 1.15px;
+}
+.authenticity {
+	max-width: 248px;
+	text-align: center;
+	margin: 0 35px 0 0;
+}
+.authenticity-icon {
+	margin: 0 0 15px 0;
+}
+.authenticity-title {
+	font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.5px;
+}
+.authenticity-text {
+	font-size: 16px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 1.15px;
+}
+.kindness {	
+	max-width: 248px;
+	min-height: 163px;
+	text-align: center;
+	margin: 0 165px 0 0;
+}
+.kindness-icon {
+	margin: 0 100px 15px 90px;
+}
+.kindness-title {
+	font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.5px;
+}
+.kindness-text {
+	font-size: 16px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 1.15px;
+}
+
+
+
+
+
+
+
